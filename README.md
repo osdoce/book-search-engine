@@ -28,5 +28,5 @@ Look up books with the Google Books API, sign up and log in, save your favorites
 GraphQL, Node.js, Express.js, Mongoose, MongoDB, Apollo Server, Apollo Client, React, Google Books API, React Bootstrap
 ## Images 
 
-![Descripción de la imagen](client/images/cuatro.png)
+![Descripción de la imagen](client/cuatro.png)
 ![Descripción de la imagen](client/images/cinco.png)
